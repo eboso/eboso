@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @eboso clyde
-- 👀 I’m interested in system development, web designing and database administration.
-- 🌱 I’m currently learning web designing.
-- 💞️ I’m looking to collaborate on system development linking up with database.
-- 📫 How to reach me, WhatsApp - +254795727383
-Instagram clydeh_me
+- 👀 I’m a software developer, web designer and devops enthusiast.
 Email. clydeeboso195@gmail.com
 
 <!---

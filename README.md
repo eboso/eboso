@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eboso clyde
-- 👀 I’m a software developer, web designer and devops enthusiast.
+- 👀 I’m a Devops engineer, systems and software developer, IT Support Specialist and Tech enthusiast.
 Email. clydeeboso195@gmail.com
 
 <!---
